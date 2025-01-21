@@ -1,0 +1,18 @@
+.certifications {
+    padding: 20px;
+    background-color: #e3f2fd;
+    color: #01579b;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    margin: 20px auto;
+    max-width: 800px;
+  }
+  
+  .certifications ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .certifications li {
+    margin: 10px 0;
+  }

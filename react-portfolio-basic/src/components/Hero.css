@@ -1,0 +1,25 @@
+.hero {
+    text-align: center;
+    padding: 50px 20px;
+    background: linear-gradient(135deg, #1e88e5, #64b5f6);
+    color: white;
+    border-radius: 0 0 50px 50px;
+  }
+  
+  .hero-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    border: 5px solid #fff;
+  }
+  
+  .hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+    margin: 0;
+  }
